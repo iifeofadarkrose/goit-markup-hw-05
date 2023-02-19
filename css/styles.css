@@ -62,7 +62,7 @@ img {
     height: auto;
 }
 
-/*----------------------------------HEADER*/
+/*--------------header---------------*/
 .header {
     border-bottom: 1px solid #E7E9FC;
 }
@@ -191,7 +191,7 @@ img {
 .contacts:not(:last-child) {
     margin-right: 40px;
 }
-/* ----------------------------------HERO */
+/* ------------hero----------- */
 .section-hero {
     background-color: var(--color-second-text);  
     padding-top: 188px;
@@ -224,7 +224,7 @@ img {
 }
 
 
-/* ------------------------BUTTON PRIMARY */
+/* -----------button-primary----------- */
 .primary-button {
     background-color: var(--color-accent);
     color: var(--background-white-color);
@@ -250,7 +250,7 @@ img {
     background-color: var(--color-hover);
     color:var(--background-white-color)
 }
-/*----------------------------SECTION-WORK*/
+/*-----------section-work-----------*/
 .section-team {
     padding-top: 120px;
     padding-bottom: 120px;
@@ -288,7 +288,7 @@ width: calc((100% - 72px) / 4);
     margin-bottom: 8px;
     background-color: var(--color-second-white);
 }
-/* ------------------------------OUR-TEAM */
+/* -----------our-team------------ */
 .items {
     display:flex;   
 }
@@ -392,7 +392,7 @@ width: calc((100% - 48px) / 3);
 .section-work {
     padding-bottom: 120px;
 }
-/* -----------------------------PORTFOLIO */
+/* ---------------portfolio------------- */
 .section-portfolio {
     padding-top: 96px;
     padding-bottom: 120px;
@@ -410,7 +410,7 @@ width: calc((100% - 48px) / 3);
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08);
        
 }
-/* --------------------------------OVERLaY */
+/* -----------overlay----------- */
 .product-thumb {
     position: relative;
     overflow: hidden;  
@@ -461,7 +461,7 @@ width: calc((100% - 48px) / 3);
     border-top: none;
     padding: 32px 16px ; 
 }
-/* ------------------------------------------BUTTON */
+/* -------------button------------- */
 .button {
     background-color: var(--color-second-white);
     color: var(--color-accent);
@@ -497,7 +497,7 @@ width: calc((100% - 48px) / 3);
 .button-list .second-button:not(:last-child) {
     margin-right: 24px;
 }
-/* -----------------------------------------CUSTOMERS*/
+/* --------------customers-------------*/
 .section-customers {
     padding-top: 130px;
     padding-bottom: 120px;
@@ -537,7 +537,7 @@ width: calc((100% - 48px) / 3);
     border-color: var(--color-hover);
 }
 
-/*--------------------==----------------------FOOTER */
+/*-------------footer-------------- */
 
 .footer {
     background-color: var(--color-second-text);
@@ -606,7 +606,7 @@ width: calc((100% - 48px) / 3);
 .footer-link:focus {
     background-color: #31D0AA;
 }
-/* -----------------------------------------MODaL*/
+/* ----------modal----------*/
 .backdrop.is-hidden {
     opacity: 0;
     pointer-events: none;
